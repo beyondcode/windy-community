@@ -1,5 +1,5 @@
 ![Windy](https://usewindy.com/img/card.png)
 
-# Windy Extension Community
+# Windy Extension – Transform any HTML element from any website into a Tailwind CSS component
 
-This repository acts as a community forum for [Windy](https://beyondco.de) questions, feature ideas, and bug reports. To start a thread, please open an [issue](https://github.com/beyondcode/windy-community/issues).
+Please contact us via the support email address at the [Windy website](https://beyondco.de).
